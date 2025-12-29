@@ -1,0 +1,12 @@
+# PyTorch and related
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+
+# Optional: for Google Colab users (mounting Drive, etc.)
+google-colab>=2.0.0
